@@ -1,2 +1,2 @@
 <?php
-echo "Hello Universe";
+echo "Hello Universe, welcome to gitbash";
